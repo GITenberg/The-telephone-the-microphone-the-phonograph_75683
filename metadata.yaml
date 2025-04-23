@@ -1,0 +1,51 @@
+_repo: The-telephone-the-microphone-the-phonograph_75683
+_version: 0.0.1
+alternative_title:
+- Le téléphone, le microphone et le phonographe. English
+- The telephone, the microphone and the phonograph
+contributor:
+  illustrator:
+    agent_name: Bonnafoux, B.
+    alias: Bonnafoux, L.
+    gutenberg_agent_id: '32780'
+    url: http://www.gutenberg.org/2009/agents/32780
+creator:
+  author:
+    agent_name: Du Moncel, Th., comte
+    aliases:
+    - Du Moncel, Théodore A. L. (Théodore Achille Louis), comte
+    - Du Moncel, Theodore A. L. (Theodore Achille Louis), comte
+    - Du Moncel, Théodose Achille Louis, comte
+    - Du Moncel, Theodose Achille Louis, comte
+    - Moncel, Théodore Du
+    - Moncel, Th. du, comte
+    birthdate: 1821
+    deathdate: 1884
+    gutenberg_agent_id: '32779'
+    url: http://www.gutenberg.org/2009/agents/32779
+    wikipedia: https://fr.wikipedia.org/wiki/Th%C3%A9odose_du_Moncel
+description: ''
+gutenberg_issued: '2025-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75683'
+language: en
+pgterms:marc904: https://archive.org/details/ldpd_11231392_000
+pgterms:marc905: 20240420053018dumoncel
+pgterms:marc906: '1892'
+pgterms:marc907: GB
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bKegan Paul, Trench, Trübner, & Co. Ltd.,
+  $c1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Telephone'
+- !lcsh 'Microphone'
+- !lcsh 'Phonograph'
+- !lcc 'TK'
+- GITenberg
+title: The telephone, the microphone & the phonograph
+url: http://www.gutenberg.org/ebooks/75683
