@@ -9,6 +9,9 @@ contributor:
     alias: Bonnafoux, L.
     gutenberg_agent_id: '32780'
     url: http://www.gutenberg.org/2009/agents/32780
+covers:
+- cover_type: archival
+  image_path: 75683-h/images/cover.jpg
 creator:
   author:
     agent_name: Du Moncel, Th., comte
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32779
     wikipedia: https://fr.wikipedia.org/wiki/Th%C3%A9odose_du_Moncel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75683#The-telephone-the-microphone-the-phonograph
 gutenberg_issued: '2025-03-22'
 gutenberg_type: Text
 identifiers:
